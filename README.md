@@ -1,5 +1,5 @@
 # Lightsensing
-A board that turns an LED on if no light is detected.
+A board that turns an LED on if no light is detected. Gerbers can be found at [pcb/gerber_to_order](./pcb/gerber_to_order)
 
 ## Features
 1. Customizable photoresistor resistance using a potentiometer
